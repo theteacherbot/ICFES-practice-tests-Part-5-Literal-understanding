@@ -1,7 +1,3 @@
-# Prompt para IA Agéntica
-
-# Exam Engine 2.0
-
 ## Part 05 -- Literal Comprehension Offline App
 
 ### Archivo: `part05-literal-comprehension-offline-50-exams.prompt.md`
